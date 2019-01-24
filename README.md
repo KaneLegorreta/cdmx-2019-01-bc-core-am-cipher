@@ -1,26 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Cifrado César
+
+El metodo conocido como "Cifrado César" es una de las técnicas de codificación más básicas que existen, si bien es una excelente e interesante forma de iniciarse en el mundo del cifrado. En su forma original consiste en trasladar las palabras del texto a cifrar un número determinado de posiciones en el alfabeto. Este número de posiciones será la clave que necesitaremos para descifrar más tarde nuestro mensaje. Así en un simple ejemplo si quisiéramos cifrar la letra a con una clave = 6, simplemente desplazaríamos nuestra letra 6 posiciones en el alfabeto: a, b, c, d, e, f, g. Para descifrar la g, repetiríamos el proceso pero en orden contrario: g, f, e, d, c, b, a.
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
 
@@ -36,6 +16,33 @@ Por ejemplo, si usamos un desplazamiento (_offset_) de 3 posiciones:
 - Alfabeto cifrado: D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
 
 En la actualidad, todos los cifrados de sustitución simple se descifran con mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la comunicación por sí mismos; el cifrado César sí puede formar parte de sistemas más complejos de codificación, como el cifrado Vigenère, e incluso tiene aplicación en el sistema ROT13.
+
+
+##Definición del producto
+
+Bravest
+
+Esta herramienta surgió como una medida contra el acoso en un ambito escolar, al que se enfrentan las mujeres, y las niñas en las aulas.
+
+La escuela es un espacio que debería considerarse seguro para todos sus integrantes. Al estar presentes menores de edad, es responsabilidad de las autoridades de la institución garantizar la seguridad del alumnado. Sin embargo, en los últimos años se ha identificado el incremento del acoso sexual en las aulas.
+Los centros educativos donde existe alto indice de acoso sexual son las secundarias, seguidos por las primarias, los centros de educación preescolar y por último el nivel medio superior.
+
+A través de esta web app se busca impulsar las denuncias y reportes sobre casos de acoso ante las autoridades escolares correspondientes y si por alguna razón prefieres hacer una denuncia anónima, utiliza el sistema de cifrado "Bravest" para encriptar mensajes, y hacerlos llegar de manera efectiva y sin temor a tener represalias por la denuncia.
+
+
+##¿Quiénes son los principales usuarios del producto?
+
+Mujeres y niñas en edad escolar, que se encuentran en una situación de acoso dentro o fuera de las aulas.
+
+##¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
+
+Tener una herramienta que facilite las denuncias de caracter sexual ante autoridades, docentes, amigos y/o familiares de manera segura, sin sentir temor a una represalia.
+
+##¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
+
+En casos de acoso sexual, la victima no se siente libre de denunciar por falta de un canal seguro de comunicación, con esta herramienta existe la posibilidad de enviar mensajes de manera secreta a traves de cualquier mensajería. De esta manera se puede dar aviso sobre una situación de peligro latente en las aulas. 
+
+
 
 ## Resumen del proyecto
 
@@ -232,7 +239,7 @@ para ver la descripción detallada de cada _habilidad_ y cada _nivel_. Esta es u
 ## Pistas sobre cómo comenzar a trabajar en el proyecto
 
 1. Antes que nada, asegúrate de tener un :pencil: editor de texto en
-   condiciones, algo como [Atom](https://atom.io/), 
+   condiciones, algo como [Atom](https://atom.io/),
    [Visual Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com) o cualquier otro de tu preferencia.
 2. Para ejecutar los comandos a continuación necesitarás una :shell:
    [UNIX Shell](https://github.com/Laboratoria/curricula-js/tree/v2.x/topics/shell),
@@ -243,7 +250,7 @@ para ver la descripción detallada de cada _habilidad_ y cada _nivel_. Esta es u
    también). Si usas Windows puedes usar [Git bash](https://git-scm.com/download/win),
    aunque recomendaría que consideres probar :penguin: GNU/Linux como tu Sistema Operativo.
 3. Haz tu propio :fork_and_knife: [fork](https://help.github.com/articles/fork-a-repo/)
-   de [ este repositorio](https://github.com/Laboratoria/cdmx-2019-01-bc-core-am-cipher) de tu cohort, tus _coaches_ te compartirán un _link_ a un repositorio y te 
+   de [ este repositorio](https://github.com/Laboratoria/cdmx-2019-01-bc-core-am-cipher) de tu cohort, tus _coaches_ te compartirán un _link_ a un repositorio y te
    darán acceso de lectura en ese repo.
 4. :arrow_down: [Clona](https://help.github.com/articles/cloning-a-repository/)
    tu _fork_ a tu computadora (copia local).
@@ -313,4 +320,3 @@ Esta sección está  para ayudarte a llevar un control de lo que vas completando
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
 * [ ] Permite usar un `offset` negativo.
 * [ ] Modelo de negocio.
-
