@@ -1,44 +1,45 @@
 body{
   background: url("https://ep01.epimg.net/verne/imagenes/2017/05/04/articulo/1493882934_941754_1493888126_sumario_normal.gif");
-/* background blamnco, letras color naranja */
+/* background sera un gift */
 
 }
 
-/* offset */
-.offset{
-    width: 180px;
-    height: 35px;
-    position: absolute;
-    top: 35%;
-    left: 10%;
-    font-size: 1.5em;
-    border-radius: 10px;
-}
+h1 {
+  left: 41%;
+  font-size: 70px;
+  color:#20B2AA;
+  letter-spacing: -2px;
+  margin: -0.7%;
 
-
-/* imprimiedo el resultado */
-.result {
-    margin: auto;
-    position: relative;
-    letter-spacing: 1px;
-    top: -10%;
-    left: 20%;
-
-}
-p {
-    margin:auto;
-    font-size: 2em;
-    text-align: center;
 }
 
 h3 {
-    position: absolute;
+
     left: 41%;
-    font-size: 70px;
-    letter-spacing: -2px;
-    margin: -0.7%;
-    z-index: 1;
+    font-size: 30px;
+    color:#20B2AA;
+    letter-spacing: 3px;
+    margin: 3%;
     top: 10.5%;
 }
 
+
+h4 {
+  left: 41%;
+  font-size: 20px;
+  color:#008080;
+  letter-spacing: 4px;
+  margin: 2%;
+  top: 10.5%;
+
+}
+
+input {
+  padding: 20px;
+  text-align: center;
+  border: 2px dotted;
+  color: #3498DB;
+  border-radius: 50px;
+  font-size: 15px;
+  min-height: 20px;
 }
