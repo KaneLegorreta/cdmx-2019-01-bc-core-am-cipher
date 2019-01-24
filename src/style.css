@@ -1,10 +1,44 @@
 body{
-  background-image: url("https://ep01.epimg.net/verne/imagenes/2017/05/04/articulo/1493882934_941754_1493888126_sumario_normal.gif");
+  background: url("https://ep01.epimg.net/verne/imagenes/2017/05/04/articulo/1493882934_941754_1493888126_sumario_normal.gif");
+/* background blamnco, letras color naranja */
 
 }
-h1{
-  color:#902467;
+
+/* offset */
+.offset{
+    width: 180px;
+    height: 35px;
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    font-size: 1.5em;
+    border-radius: 10px;
 }
-h3{
-  color:#193336;
+
+
+/* imprimiedo el resultado */
+.result {
+    margin: auto;
+    position: relative;
+    letter-spacing: 1px;
+    top: -10%;
+    left: 20%;
+
+}
+p {
+    margin:auto;
+    font-size: 2em;
+    text-align: center;
+}
+
+h3 {
+    position: absolute;
+    left: 41%;
+    font-size: 70px;
+    letter-spacing: -2px;
+    margin: -0.7%;
+    z-index: 1;
+    top: 10.5%;
+}
+
 }
