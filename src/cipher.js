@@ -8,7 +8,7 @@ encode: (offsetIngresado, messageIngresado) => {
   // console.log(letraMayus)
 
    //messageIngresado= messageIngresado.toUpperCase();
-
+//
     for (i=0; i<letraMayus.length; i++) {
 
        let letraAscii= letraMayus.charCodeAt(i);

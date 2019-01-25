@@ -2,9 +2,9 @@
 
 El metodo conocido como "Cifrado César" es una de las técnicas de codificación más básicas que existen, si bien es una excelente e interesante forma de iniciarse en el mundo del cifrado. En su forma original consiste en trasladar las palabras del texto a cifrar un número determinado de posiciones en el alfabeto. Este número de posiciones será la clave que necesitaremos para descifrar más tarde nuestro mensaje. Así en un simple ejemplo si quisiéramos cifrar la letra a con una clave = 6, simplemente desplazaríamos nuestra letra 6 posiciones en el alfabeto: a, b, c, d, e, f, g. Para descifrar la g, repetiríamos el proceso pero en orden contrario: g, f, e, d, c, b, a.
 
-Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
+Cifrar significa codificar. El [Acoso sexual en la educación](https://es.wikipedia.org/wiki/Acoso_sexual_en_la_educaci%C3%B3n) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
 
-![caeser-cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
+![imagen acoso](https://www.cop-cv.org/db/cke_uploads/images/Acoso.jpg)
 
 El cifrado césar es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto.
 
@@ -18,7 +18,7 @@ Por ejemplo, si usamos un desplazamiento (_offset_) de 3 posiciones:
 En la actualidad, todos los cifrados de sustitución simple se descifran con mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la comunicación por sí mismos; el cifrado César sí puede formar parte de sistemas más complejos de codificación, como el cifrado Vigenère, e incluso tiene aplicación en el sistema ROT13.
 
 
-##Definición del producto
+# Definición del producto
 
 Bravest
 
@@ -30,17 +30,30 @@ Los centros educativos donde existe alto indice de acoso sexual son las secundar
 A través de esta web app se busca impulsar las denuncias y reportes sobre casos de acoso ante las autoridades escolares correspondientes y si por alguna razón prefieres hacer una denuncia anónima, utiliza el sistema de cifrado "Bravest" para encriptar mensajes, y hacerlos llegar de manera efectiva y sin temor a tener represalias por la denuncia.
 
 
-##¿Quiénes son los principales usuarios del producto?
+# ¿Quiénes son los principales usuarios del producto?
 
 Mujeres y niñas en edad escolar, que se encuentran en una situación de acoso dentro o fuera de las aulas.
 
-##¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
+# ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
 
 Tener una herramienta que facilite las denuncias de caracter sexual ante autoridades, docentes, amigos y/o familiares de manera segura, sin sentir temor a una represalia.
 
-##¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
+# ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
 
-En casos de acoso sexual, la victima no se siente libre de denunciar por falta de un canal seguro de comunicación, con esta herramienta existe la posibilidad de enviar mensajes de manera secreta a traves de cualquier mensajería. De esta manera se puede dar aviso sobre una situación de peligro latente en las aulas. 
+En casos de acoso sexual, la victima no se siente libre de denunciar por falta de un canal seguro de comunicación, con esta herramienta existe la posibilidad de enviar mensajes de manera secreta a traves de cualquier mensajería. De esta manera se puede dar aviso sobre una situación de peligro latente en las aulas.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
