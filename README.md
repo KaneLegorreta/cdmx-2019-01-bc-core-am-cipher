@@ -1,6 +1,6 @@
 # Definición del producto
 
-Bravest
+##BRAVEST
 
 Esta herramienta surgió como una medida en contra del [Acoso sexual en las aulas](https://es.wikipedia.org/wiki/Acoso_sexual_en_la_educaci%C3%B3n), al que se enfrentan mujeres y las niñas en un ambito escolar.
 
@@ -8,24 +8,38 @@ Las instituciones escolares son espacios que deberían considerarse seguros para
 Los centros educativos donde existe alto indice de acoso sexual son las secundarias, seguidos por las primarias, los centros de educación preescolar y por último el nivel medio superior.
 
 A través de esta web app se busca impulsar las denuncias y reportes sobre casos de acoso ante las autoridades escolares correspondientes y si por alguna razón se prefiere hacer una denuncia anónima, utiliza el sistema de cifrado "Bravest" para encriptar mensajes y hacerlos llegar de manera efectiva y sin temor a tener represalias por la denuncia.
-Bravest es una web app inspirada en el antiguo sistema de cifrado Cesar, un cifrado por desplazamiento que encripta tus mensajes según el numero de posiciones que desees recorrer las letras, para así conseguir textos ilegibles, amenos que cuentes una "key" que te permitirá descifrar el mensaje oculto.
+Bravest es una web app inspirada en el antiguo sistema de [cifrado Cesar](https://es.wikipedia.org/wiki/Cifrado_C%C3%A9sar), un cifrado por desplazamiento que encripta tus mensajes según el numero de posiciones que desees recorrer las letras, para así conseguir textos ilegibles, amenos que cuentes una "key" que te permitirá descifrar el mensaje oculto.
 
 ![imagen acoso](https://www.cop-cv.org/db/cke_uploads/images/Acoso.jpg)
 
 
-## ¿Quiénes son los principales usuarios del producto?
+### ¿Quiénes son los principales usuarios del producto?
 
-Mujeres y niñas en edad escolar, que se encuentran en una situación de acoso dentro o fuera de las aulas.
+Mujeres y niñas en edad escolar, que se encuentran en una situación de acoso dentro o fuera de las aulas.s
 
-## ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
+### ¿Cuáles son los objetivos de estos usuarios en relación con tu producto?
 
 Tener una herramienta que facilite las denuncias de caracter sexual ante autoridades, docentes, amigos y/o familiares de manera segura, sin sentir temor a una represalia.
 
-## ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
+### ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
 
-En casos de acoso sexual, la victima no se siente libre de denunciar por falta de un canal seguro de comunicación, con esta herramienta existe la posibilidad de enviar mensajes de manera secreta a traves de cualquier mensajería. De esta manera se puede dar aviso sobre una situación de peligro latente en las aulas.
+En casos de acoso sexual, la victima no se siente libre de denunciar por falta de un canal seguro de comunicación, con esta herramienta existe la posibilidad de enviar mensajes de manera secreta a traves de cualquier mensajería. De esta manera se puede dar aviso sobre una situación de peligro potencial en las aulas.
 
 
+
+## Instalación 🔧
+
+Para comenzar a cifrar mensajes con BRAVEST da click al siguiente link: [Bravest](file:///C:/Users/karen/OneDrive/Escritorio/cdmx-2019-01-bc-core-am-cipher/src/index.html)
+
+## Construido con 🛠️
+
+HTML- Lenguaje de marcado utilizado
+JavaScript (ECMAScript6)- Lenguaje de programación
+CSS - Lenguaje de diseño
+
+## Expresiones de Gratitud 🎁
+
+Manifiesto mi gratitud a Cipher Squad, por su inavaluable apoyo 🤓.
 
 
 
